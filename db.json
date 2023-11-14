@@ -1,0 +1,25 @@
+{
+  "todos": [
+    {
+      "title": "sunum hazırla",
+      "status": "important",
+      "id": "65d07a0d-fe96-4b59-a7c2-6a14ef70f326",
+      "date": "14.11.2023",
+      "isDone": false
+    },
+    {
+      "title": "tüm ödevleri tamamla",
+      "status": "daily",
+      "id": "7937e2e7-fd0d-4723-8dd7-8901c42c0d5e",
+      "date": "14.11.2023",
+      "isDone": false
+    },
+    {
+      "title": "projeyi tamamla",
+      "status": "important",
+      "id": "c5e15307-2f9e-4e66-829f-72383811d8f9",
+      "date": "14.11.2023",
+      "isDone": false
+    }
+  ]
+}
